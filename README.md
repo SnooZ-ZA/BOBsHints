@@ -1,2 +1,2 @@
 # BOBsHints
-Hints at start of session
+ESX Hints at start of session
